@@ -1,6 +1,7 @@
 # BMI_calculator
-<a href="https://img.shields.io/github/stars/berta-rf/BMI_calculator?style=for-the-badge", href=
-"https://img.shields.io/github/license/berta-rf/BMI_calculator?style=for-the-badge" </a>
+<a src="https://img.shields.io/github/stars/berta-rf/BMI_calculator?style=for-the-badge"</a>
+<a src="https://img.shields.io/github/license/berta-rf/BMI_calculator?style=for-the-badge"</a>
+
 
 ## Description
 
