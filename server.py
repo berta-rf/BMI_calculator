@@ -1,6 +1,8 @@
-from bottle import route, run, template, get, request, static_file, Bottle
+from bottle import route, run, template, get, request, static_file, Bottle, TEMPLATE_PATH
 
 from main import bmi_calculator
+
+TEMPLATE_PATH.insert(0,'/home/bertraps/BMI_calculator/')
 
 app = Bottle()
 
