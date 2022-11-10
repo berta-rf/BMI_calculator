@@ -1,5 +1,8 @@
 # BMI_calculator
 
+<a href="https://github.com/berta-rf/BMI_calculator/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/berta-rf/BMI_calculator"></a> <a href="https://github.com/berta-rf/BMI_calculator/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/berta-rf/BMI_calculator"></a>
+
+
 ## Description
 
 This is a website with a built-in BMI calculator for people who want to know their BMI but don't really care about their BMI.
