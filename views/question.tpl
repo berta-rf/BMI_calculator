@@ -17,7 +17,7 @@ Do you wanna know your BMI?
 <button id="button-yes" type="button" onclick= "window.location.href='/form'"> Sure! Why not? </button>
 
 
-<button id="button-no" type="button" onclick= "window.location.href='https://giphy.com/gifs/movie-the-godfather-francis-ford-coppola-3o7bufgPP70ra2ZVi8/fullscreen'">
+<button id="button-no" type="button" onclick= "window.location.href='https://i.giphy.com/media/3o7bufgPP70ra2ZVi8/giphy.webp'">
 No, I don't care about that! </button>
 </div>
 
