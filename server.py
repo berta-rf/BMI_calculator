@@ -2,7 +2,7 @@ from bottle import route, run, template, get, request, static_file, Bottle, TEMP
 
 from main import bmi_calculator
 
-TEMPLATE_PATH.insert(0,'/home/bertraps/BMI_calculator/')
+TEMPLATE_PATH.insert(0,'./BMI_calculator/views')
 
 app = Bottle()
 
@@ -23,6 +23,4 @@ def calculate():
 
 @app.get('/style.css')
 def stylesheet():
-    return static_file ('style.css', root='static/css')
-
-#app.run()
+    return static_file ('style.css', root='./BMI_calculator/static/css')
