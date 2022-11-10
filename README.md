@@ -1,6 +1,10 @@
 # BMI_calculator
-<a> src="https://img.shields.io/github/stars/berta-rf/BMI_calculator?style=for-the-badge"</a>
-<a> src="https://img.shields.io/github/license/berta-rf/BMI_calculator?style=for-the-badge"</a>
+
+<a href="https://github.com/berta-rf/prework-study-guide/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/berta-rf/prework-study-guide?style=for-the-badge"></a>
+
+<a href="" src="https://img.shields.io/github/stars/berta-rf/BMI_calculator?style=for-the-badge"</a>
+
+<a href="https://github.com/berta-rf/prework-study-guide/stargazers"><img alt="GitHub stars" src="[![GitHub stars](https://img.shields.io/github/stars/berta-rf/BMI_calculator)](https://github.com/berta-rf/BMI_calculator/stargazers)"></a>
 
 
 ## Description
