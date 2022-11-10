@@ -1,6 +1,8 @@
-from bottle import route, run, template, get, request, static_file
+from bottle import route, run, template, get, request, static_file, Bottle
 
 from main import bmi_calculator
+
+app = Bottle()
 
 @route('/')
 def question():
@@ -24,4 +26,4 @@ def calculate():
 def stylesheet():
     return static_file ('style.css', root='static/css')
 
-run(host='0.0.0.0', port=8080)
+app.run()
